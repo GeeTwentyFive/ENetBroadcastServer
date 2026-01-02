@@ -1,0 +1,1 @@
+gcc -O2 ../main.c -lws2_32 -lwinmm -o GameServer
