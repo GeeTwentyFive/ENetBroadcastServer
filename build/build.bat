@@ -1,1 +1,1 @@
-gcc -O2 ../main.c -lws2_32 -lwinmm -o GameServer
+gcc -O2 ../main.c -lws2_32 -lwinmm -o ENetRelay.exe

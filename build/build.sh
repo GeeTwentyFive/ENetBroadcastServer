@@ -1,1 +1,1 @@
-gcc -O2 ../main.c -o GameServer
+gcc -O2 ../main.c -o ENetRelay
