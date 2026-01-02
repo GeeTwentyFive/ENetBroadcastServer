@@ -1,1 +1,1 @@
-gcc -O2 ../main.c -o ENetRelay
+gcc -O2 ../main.c -o ENetBroadcastServer
